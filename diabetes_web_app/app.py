@@ -33,7 +33,7 @@ def diabetes_prediction(input_data):
 def main():
 
     # App title
-    st.title('Check Your Health')
+    st.title('Test for Diabetes')
 
     # Input fields for user data
     Pregnancies = st.text_input("No. of Pregnancies")
