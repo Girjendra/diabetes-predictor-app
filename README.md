@@ -35,10 +35,10 @@ streamlit run app.py
 --
 
 ## 🌐 Deployment
-- These projects can be deployed using:
--- Streamlit Cloud
--- Render
--- Localhost
+These projects can be deployed using:
+- Streamlit Cloud
+- Render
+- Localhost
 
 ---
 
