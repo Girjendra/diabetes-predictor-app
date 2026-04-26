@@ -49,7 +49,7 @@ This project aims to assist in predicting diabetes risk using machine learning t
 * Type: Classification
 
 ## 📈 Model Performance
-- Accuracy: 78%  (or your actual value)
+- Accuracy: 78%
   
 ---
 
